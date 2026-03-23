@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+﻿import { Link } from 'react-router-dom';
 import { Phone, MapPin, Mail, Clock, Facebook, Twitter, Youtube } from 'lucide-react';
 import LegalModal from '@/components/modals/LegalModal';
 
